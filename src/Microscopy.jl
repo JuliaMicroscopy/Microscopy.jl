@@ -1,5 +1,5 @@
 module Microscopy
 
-# Write your package code here.
+include("microscope_modes.jl")
 
 end

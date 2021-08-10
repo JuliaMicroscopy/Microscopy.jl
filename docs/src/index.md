@@ -4,7 +4,7 @@ CurrentModule = Microscopy
 
 # Microscopy
 
-Documentation for [Microscopy](https://github.com/roflmaostc/Microscopy.jl).
+Documentation for [Microscopy](https://github.com/JuliaMicroscopy/Microscopy.jl).
 
 ```@index
 ```

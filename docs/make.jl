@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/JuliaMicroscopy/Microscopy.jl",
+    devbranch = "main"
 )
